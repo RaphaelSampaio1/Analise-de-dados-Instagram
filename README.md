@@ -11,6 +11,7 @@ A análise revelou que os horários com maior número de visualizações e curti
 # Visualização de Dados
 Foram utilizados gráficos de dispersão para verificar visualmente os padrões de engajamento, facilitando a identificação dos melhores horários e tipos de conteúdo para postar.
 
+[!NOTE]
 # Como Executar o Código
 Para rodar o código, siga os seguintes passos:
 
