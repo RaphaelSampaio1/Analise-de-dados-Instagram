@@ -20,11 +20,11 @@ O script salvará uma nova planilha chamada Instagram_clean.xlsx.
 Com a planilha limpa, execute o código do arquivo base_limpa.ipynb para realizar a análise final.
 
 # Tecnologias Utilizadas
-Python
-Pandas
-Jupyter Notebook
-Selenium
-BeautifulSoup
-Matplotlib (para visualizações gráficas)
+[^1] Python
+[^2] Pandas
+[^3] Jupyter Notebook
+[^4] Selenium
+[^5] BeautifulSoup
+[^6] Matplotlib (para visualizações gráficas)
 
 Este projeto ajudará a entender melhor quais estratégias de postagem podem aumentar o engajamento no Instagram, permitindo otimizar a criação e a publicação de conteúdo.
